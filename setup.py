@@ -9,7 +9,7 @@ requirements = [
     "nibabel",
     "numpy",
     "configparser",
-    "pandas<=0.25.3,>=0.25.1",
+    "pandas>=0.25.1,<1.0.4",
     "scikit-image",
     "tqdm",
     "natsort",
